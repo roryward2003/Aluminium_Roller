@@ -5,3 +5,5 @@ This is a simple program I wrote to convert the desired diameter of an aluminium
 The UI is intentionally limited to keep the program as simple to use as possible for the user (my uncle).
 
 The Widget and Slider tabs are unnecessarily complex as they are borrowed from a previous program which had more advanced UI.
+
+This is an intentionally low effort program with ambiguous variable names and no comments, simply because I made the program as quickly as possible so my uncle could use it for a project he was working on at the time.
